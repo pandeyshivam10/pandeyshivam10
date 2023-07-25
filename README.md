@@ -3,7 +3,6 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/pandeyshivam10/pandeyshivam10/blob/main/images/github-header-image.png" href="https://github.com/pandeyshivam10" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/pandeyshivam10/pandeyshivam10/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/pandeyshivam10" alt="CoDiNg RocKs"  width="60%"/><br>
 <br>
 [![](https://visitcount.itsvg.in/api?id=pandeyshivam10&icon=9&color=1)](https://visitcount.itsvg.in)
