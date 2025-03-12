@@ -7,7 +7,7 @@
 <br>
 [![](https://visitcount.itsvg.in/api?id=pandeyshivam10&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<p>    <strong>4rd year BTech student. <br>
+<p>    <strong>Software Engineer <br>
   Competitive Programmer :- <i>Pupil Codeforces </i> <br>
   Full Stack Developer
 
