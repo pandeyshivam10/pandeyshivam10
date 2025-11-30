@@ -24,7 +24,7 @@ Full Stack Developer
 
 💻 Tech Stack:
 
-// tools_I_use organized
+```dart
 class About extends Me {
   const myTools = {
     "Languages" : { "JavaScript", "TypeScript", "C++", "Java", "Python" },
@@ -35,6 +35,7 @@ class About extends Me {
     "Platforms" : { "AWS Cloud", "Linux", "Windows" },
     "OtherTools" : { "Git", "Postman", "Figma"  }
 }
+```
 
 
 <img alt="GIF" src="https://github.com/pandeyshivam10/pandeyshivam10/blob/main/images/Developer.gif" width="25" />   I’m currently an Associate Software Developer working with AI/LLM & MERN. <img width="15%" align="right" alt="Github Image" src="https://github.com/pandeyshivam10/pandeyshivam10/blob/main/images/linux_rounded.gif?raw=true" />
